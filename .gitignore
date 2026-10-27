@@ -25,3 +25,5 @@ rustc-ice-*.txt
 
 *.out
 /OpenMP exam/montecarlo
+sec
+par
