@@ -1,0 +1,10 @@
+Estimacion de pi: 3.141568
+Tiempo: 1.226531
+Estimacion de pi: 3.141568
+Tiempo: 1.232287
+Estimacion de pi: 3.141568
+Tiempo: 1.197706
+Estimacion de pi: 3.141568
+Tiempo: 1.225871
+Estimacion de pi: 3.141568
+Tiempo: 1.209183
