@@ -1,7 +1,3 @@
-//
-// Created by j4nn on 10/27/26.
-//
-
 /* montecarlo.c -- versión secuencial de referencia.
    Uso: ./montecarlo <numero de muestras> */
 
