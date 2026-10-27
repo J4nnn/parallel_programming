@@ -1,10 +1,10 @@
 Estimacion de pi: 3.141655
-hilos=1 N=100000000 dentro=78541383 error=6.27e-05 tiempo=0.3835
+hilos=1 N=100000000 dentro=78541383 error=6.27e-05 tiempo=0.3871
 Estimacion de pi: 3.141655
-hilos=2 N=100000000 dentro=78541383 error=6.27e-05 tiempo=0.2203
+hilos=2 N=100000000 dentro=78541383 error=6.27e-05 tiempo=0.2019
 Estimacion de pi: 3.141655
-hilos=2 N=100000000 dentro=78541383 error=6.27e-05 tiempo=0.2721
+hilos=2 N=100000000 dentro=78541383 error=6.27e-05 tiempo=0.2193
 Estimacion de pi: 3.141655
-hilos=4 N=100000000 dentro=78541383 error=6.27e-05 tiempo=0.1237
+hilos=4 N=100000000 dentro=78541383 error=6.27e-05 tiempo=0.1813
 Estimacion de pi: 3.141655
-hilos=4 N=100000000 dentro=78541383 error=6.27e-05 tiempo=0.2076
+hilos=4 N=100000000 dentro=78541383 error=6.27e-05 tiempo=0.1858
