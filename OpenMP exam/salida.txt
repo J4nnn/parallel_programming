@@ -1,10 +1,10 @@
 Estimacion de pi: 3.141568
-hilos=1 dentro=78539202 tiempo=1.2161
-Estimacion de pi: 3.141157
-hilos=2 dentro=78528926 tiempo=2.1601
-Estimacion de pi: 3.141579
-hilos=2 dentro=78539477 tiempo=2.1762
-Estimacion de pi: 3.141420
-hilos=4 dentro=78535505 tiempo=2.0825
-Estimacion de pi: 3.141371
-hilos=4 dentro=78534282 tiempo=2.0694
+hilos=1 dentro=78539202 tiempo=1.1987
+Estimacion de pi: 3.141388
+hilos=2 dentro=78534693 tiempo=0.6948
+Estimacion de pi: 3.141388
+hilos=2 dentro=78534693 tiempo=0.7293
+Estimacion de pi: 3.141486
+hilos=4 dentro=78537157 tiempo=0.4799
+Estimacion de pi: 3.141486
+hilos=4 dentro=78537157 tiempo=0.4181
