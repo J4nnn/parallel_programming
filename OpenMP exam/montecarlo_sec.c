@@ -12,7 +12,7 @@
 int main(int argc, char *argv[]) {
   long N = (argc > 1) ? atol(argv[1]) : 100000000L;
 
-  unsigned int estado = 20261018U;
+  unsigned int estado = 2210048;
   long dentro = 0;
   double t_inicial = omp_get_wtime();
 
